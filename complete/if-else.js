@@ -1,5 +1,5 @@
 /*
-Passport is the main method to allow you entrance into a country. Border Patrol
+Passport is the main method to allow your entrance into a country. Border Patrol
 will check that the passport you're using is not a fake one and from a country
 that is allowed entry. The simplest way to be sure that you are from a country
 that is allowed access is to have a passport from the same country.
